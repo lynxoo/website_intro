@@ -1,0 +1,44 @@
+body {
+  background-color: #1b1b1b;
+  color: #ff5c5c;
+  align-content: center;
+  font-family: 'VT323', monospace;
+}
+
+.main_container {
+  border-top: dotted #ffffff;
+  border-width: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.master_container {
+  margin-top: 16%;
+}
+
+.name {
+  font-size: 200px;
+  text-align: center;
+}
+
+.container {
+
+}
+
+.subject {
+  font-size: 50px;
+  display: inline-block;
+  width: 24%;
+  height: auto;
+  text-align: center;
+
+
+ position: static;
+ left:;
+}
+
+.end_text {
+  margin-top: 5%;
+  font-size: 30px;
+  text-align: center;
+}
